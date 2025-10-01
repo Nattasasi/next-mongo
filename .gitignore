@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+<<<<<<< HEAD
+=======
+.yarn/install-state.gz
+>>>>>>> a560297 (first commit)
 
 # testing
 /coverage
@@ -25,8 +29,13 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
+<<<<<<< HEAD
 .env*.local
 .env
+=======
+.env
+.env.*
+>>>>>>> a560297 (first commit)
 
 # vercel
 .vercel
